@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://blog.hemang.engineer"
+url: "https://attacker-codeninja.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -24,7 +24,6 @@ description: A virtual proof that my name is awesome!
 # List of links in the navigation bar
 navbar-links:
  About Me: "aboutme"
- Repositories: "repo"
  # Projects: "projects"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -34,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/profile.png"
+avatar: "/img/profile.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -57,14 +56,11 @@ avatar: "/img/profile.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Hemang Bairwa
-  email: "hamang2001@gmail.com"
-  github: hemang-2001
-  twitter: HemangBairwa
-  linkedin: hemang-bairwa
-  facebook: hamang2001
-  xing: yourname
-  stackoverflow: yourlink
+  name: Aakash Choudhary
+  email: "choudharyaakash68@gmail.com"
+  github: attacker-codeninja
+  twitter: LearnerHunter
+  linkedin: aakash-choudhary
 
 
 # Select which links to show in the footer
@@ -88,7 +84,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "hemang.engineer"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "attacker-codeninja"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
